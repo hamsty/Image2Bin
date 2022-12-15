@@ -1,2 +1,8 @@
 .idea
 .idea\vcs.xml
+/Image2Bin.spec
+/built.bat
+/venv/
+/upx/
+/dist/
+/build/
